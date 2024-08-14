@@ -1,0 +1,1 @@
+You can deploy this project to test it. Please note that it can only be deployed as a Telegram Mini App. Attempting to deploy it in any other way will result in errors, as it relies on Telegram’s userinit data for authentication.
